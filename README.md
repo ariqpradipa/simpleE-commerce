@@ -1,5 +1,8 @@
 # simpleE-commerce
 
+Link video presentasi:
+https://drive.google.com/file/d/1EQ4DRSzOxqTauTZ8UMKB_HuU4eu26cE0/view?usp=sharing
+
 Cara Kerja Program :
 1. Create new account terlebih dahulu jika sebelumnya belum ada data, lakukan hal yang sama untuk akun user.
 ![Screenshot (1249)](https://user-images.githubusercontent.com/71066812/123102186-ffe2cc80-d45e-11eb-9fdc-12ad3ff6410d.png)
