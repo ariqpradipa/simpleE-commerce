@@ -3,7 +3,7 @@
 Cara Kerja Program :
 1. Create new account terlebih dahulu jika sebelumnya belum ada data, lakukan hal yang sama untuk akun user.
 ![Screenshot (1249)](https://user-images.githubusercontent.com/71066812/123102186-ffe2cc80-d45e-11eb-9fdc-12ad3ff6410d.png)
-2. Masuk ke akun admin dengan id = admin dan password = 12345
+2. Masuk ke akun admin dengan id = admin dan password = 12345 (juga dijelaskan di dalam program)
 3. Kita dapat menambah saldo user dan menghapus toko
 ![tambah saldo user 2](https://user-images.githubusercontent.com/71066812/123103875-9e236200-d460-11eb-9576-f88955476291.png)
 ![isi saldo](https://user-images.githubusercontent.com/71066812/123108004-3c64f700-d464-11eb-9519-f4c86a60901d.png)
