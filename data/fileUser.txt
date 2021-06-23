@@ -1,9 +1,0 @@
-nama pertama
-nama1 nama1p
-233.0000
-nama kedua
-nama2
-2000.0000
-nama ketiga
-nama3
-9000.0000
