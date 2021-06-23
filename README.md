@@ -12,12 +12,14 @@ Cara Kerja Program :
 ![browse product](https://user-images.githubusercontent.com/71066812/123104041-ca3ee300-d460-11eb-9e8c-374cd6286086.png)
 5. Kemudian kita dapat membeli produk dengan memasukkan id produk
 ![beli produk id 2](https://user-images.githubusercontent.com/71066812/123104136-e3479400-d460-11eb-83d4-74071cd61f0c.png)
-6. user dapat memberi rating pada produk yang dia beli dengan memasukkan id toko terlebih dahulu, kemudian memasukkan nama produk, rating, & ulasan
+6. User dapat memberi rating pada produk yang dia beli dengan memasukkan id toko terlebih dahulu, kemudian memasukkan nama produk, rating, & ulasan
 ![ulasan](https://user-images.githubusercontent.com/71066812/123104557-40dbe080-d461-11eb-83ce-fd31bc556ecf.png)
-7.  Jika kita login dengan akun toko, kita dapat menambah produk, hapus produk, dan edit informasi produk.
+7. Jika kita login dengan akun toko, kita dapat menambah produk, hapus produk, dan edit informasi produk.
 ![menu toko](https://user-images.githubusercontent.com/71066812/123108213-6cac9580-d464-11eb-8acb-8bf869ee35dc.png)
 ![hapus produk](https://user-images.githubusercontent.com/71066812/123108323-86e67380-d464-11eb-85a3-620aac152216.png)
 ![tambah produk](https://user-images.githubusercontent.com/71066812/123108297-82ba5600-d464-11eb-9090-c672d8665f7e.png)
 ![edit informasi produk](https://user-images.githubusercontent.com/71066812/123108280-7df5a200-d464-11eb-9446-c9ee82bddcda.png)
+8. Jika kita memilih opsi help pada halaman utama, maka kita dapat mengetahui deskripsi singkat dari program ini.
+![help](https://user-images.githubusercontent.com/70908070/123110662-7df6a180-d466-11eb-9e11-61bade03c200.png)
 
-This source code is made by Ariq Pradipa Santoso (2006527052), Mochammad Shaffa Prawiranegara(2006528105), and Muhammad Malik Ardiansyah (2006526996) as final programming assignment in Even Semester 2020/2021 for course Advance Programming + Lab. (ENCE602003) in Undergraduate of Computer Engineering study program, Department of Electrical Engineering, Faculty of Engineering, Universitas Indonesia."
+This source code is made by Ariq Pradipa Santoso (2006527052), Mochammad Shaffa Prawiranegara (2006528105), and Muhammad Malik Ardiansyah (2006526996) as final programming assignment in Even Semester 2020/2021 for course Advance Programming + Lab. (ENCE602003) in Undergraduate of Computer Engineering study program, Department of Electrical Engineering, Faculty of Engineering, Universitas Indonesia."
