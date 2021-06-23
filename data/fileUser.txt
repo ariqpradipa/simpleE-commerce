@@ -1,0 +1,9 @@
+user pertama
+user1 user1p
+200
+user kedua
+user2 user2p
+9800
+user ketiga
+user3 user3p
+90293

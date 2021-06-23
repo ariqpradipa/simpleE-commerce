@@ -1,0 +1,9 @@
+toko pertama
+tokopertama tokopertamapass
+0
+toko kedua
+tokokedua tokokeduapass
+0
+toko ketiga
+tokoketiga tokoketigapass
+0
